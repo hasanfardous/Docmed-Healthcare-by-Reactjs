@@ -1,7 +1,7 @@
 # Docmed Healthcare by Reactjs
 Docmed is a Health Care related website where you will get details About us, Our Departments & Our Experts. We have couple of pages some are restricted to access publically.
 
-[Check Live URL](https://elearning-platform-reactjs.netlify.app)
+[Check Live URL](https://docmed-healthcare-reactjs.netlify.app/)
 
 ## Features
 - A Navigation bar to navigate every page easily without a page reload.
