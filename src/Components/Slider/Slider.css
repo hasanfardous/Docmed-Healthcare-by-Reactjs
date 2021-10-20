@@ -1,0 +1,25 @@
+.carousel-inner .carousel-caption {
+    bottom: 0;
+    top: 0;
+    left: auto;
+    right: auto;
+    margin: auto 0;
+    height: 245px;
+    text-align: left;
+}
+.carousel-inner .carousel-caption h3 {
+    font-size: 50px;
+    color: #333;
+    font-weight: bold;
+}
+.carousel-inner .carousel-caption h3 span {
+    font-weight: normal;
+}
+.Home .carousel .carousel-control-prev {
+    left: 20px;
+    width: 32px;
+}
+.Home .carousel .carousel-control-next {
+    right: 20px;
+    width: 32px;
+}

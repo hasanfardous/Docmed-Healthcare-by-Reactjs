@@ -1,0 +1,74 @@
+.our_department_area {
+    background: #F5FBFF;
+    padding-top: 120px;
+    padding-bottom: 90px;
+  }
+  
+  .our_department_area .single_department {
+    background: #fff;
+    margin-bottom: 30px;
+    -webkit-box-shadow: 0 6px 10px rgba(0, 0, 0, 0.04);
+    -moz-box-shadow: 0 6px 10px rgba(0, 0, 0, 0.04);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.04);
+  }
+  
+  .our_department_area .single_department .department_thumb {
+    overflow: hidden;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+  }
+  
+  .our_department_area .single_department .department_thumb img {
+    width: 100%;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+  }
+  
+  .our_department_area .single_department .department_content {
+    padding: 22px 30px 24px 30px;
+  }
+  
+  .our_department_area .single_department .department_content h3 {
+    margin-bottom: 0;
+  }
+  
+  .our_department_area .single_department .department_content h3 a {
+    font-size: 22px;
+    color: #1F1F1F;
+    line-height: 33px;
+    font-weight: 500;
+  }
+  
+  .our_department_area .single_department .department_content h3 a:hover {
+    color: #5DB2FF;
+  }
+  
+  .our_department_area .single_department .department_content p {
+    font-size: 16px;
+    line-height: 28px;
+    color: #727272;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .our_department_area .single_department .department_content a.learn_more {
+    color: #5DB2FF;
+    font-size: 16px;
+  }
+  
+  .our_department_area .single_department .department_content a.learn_more:hover {
+    text-decoration: underline;
+  }
+  
+  .our_department_area .single_department:hover .department_thumb img {
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+  }

@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Eye Care",
+        "img": "https://me.hasanfardous.com/external/departments/department-1.png",
+        "details": "In Bangladesh most of the eye care facilities are in urban area whereas two third of the total population live in rural areas. Government, national, international private organizations own the eye care facilities. The service facilities equipped with quality eye care services are located in the district (secondary eye care) and divisions (tertiary or equivalent). There is no statistics or detail information about the eye care facilities, their personnel, equipments and instruments and so on can be found anywhere. There is a lack of information and updated data on the service delivery, coverage, qualified hospitals in eye care. Moreover, the present referral system is found to be inadequate or almost non-existence in several areas. There is no means of updating the information on the facilities, services, coverage, and about the service providers in eye health, which impedes the eye care services all the time. The national Eye care plan also requires such updates and authentic studies and dynamic tools for getting updates for planning and resource allocation including HR development and planning for the country."
+    },
+    {
+        "id": "2",
+        "name": "Physical Therapy",
+        "img": "https://me.hasanfardous.com/external/departments/department-2.png",
+        "details": "These licensed health professionals engage in specific graduate training in physical therapy. You may hear them called PTs or physiotherapists. As of 2016, to be eligible to sit for the national exam, you need to graduate from an accredited higher educational institution with a Doctor of Physical Therapy (DPT) degree. An additional state exam must also be passed to earn a license. Physical therapists evaluate your condition and develop a care plan that guides your therapy. They may perform hands-on treatments for your symptoms. They also teach you special exercises to help you move and function better. In most states, you can go directly to a physical therapist without a referral from your doctor. Or your doctor might prescribe it. Check your insurance policy to see if you need a prescription to cover the cost. If you have a serious illness or injury, a PT won’t take the place of other doctors, but they will work with your doctors and other health care professionals to guide treatments. You’ll feel better and you’ll be more likely to get back full function in the area being treated, and in most cases, faster than without the guidance of a PT."
+    },
+    {
+        "id": "3",
+        "name": "Dental Care",
+        "img": "https://me.hasanfardous.com/external/departments/department-3.png",
+        "details": "Tooth decay and gum disease are caused by plaque, a sticky combination of bacteria and food. Plaque begins to build up on teeth within a few minutes after eating. If teeth are not cleaned well each day, plaque will lead to tooth decay or gum disease. If you do not remove plaque, it turns into a hard deposit called tartar that becomes trapped at the base of the tooth. Plaque and tartar irritate and inflame the gums. Bacteria and the toxins they produce cause the gums to become."
+    },
+    {
+        "id": "4",
+        "name": "Diagnostic Test",
+        "img": "https://me.hasanfardous.com/external/departments/department-4.png",
+        "details": "A diagnostic procedure is an examination to identify an individual's specific areas of weakness and strength in order determine a condition, disease or illness. For example, in order to diagnose a herniated disc, physicians may employ Magnetic Resonance Imaging (MRI), Computer Assisted Tomography (CAT scan), and/or Electromyography (EMG) to determine if the herniated disc is impinging on a nerve root."
+    },
+    {
+        "id": "5",
+        "name": "Skin Surgery",
+        "img": "https://me.hasanfardous.com/external/departments/department-5.png",
+        "details": "Skin Surgery Center Skin Cancer Specialists specializes in the detection and treatment of skin cancer. Our physicians are fellowship trained in Mohs micrographic surgery, a technique that offers the highest chance for complete removal of certain types of skin cancer while sparing the largest amount of normal tissue. We strive to provide the highest quality of care in a pleasant environment and in an efficient fashion. In addition to the treatment of confirmed skin cancer, we offer comprehensive skin exams and are available to discuss your concerns and options for treatment. We look forward to seeing you."
+    },
+    {
+        "id": "6",
+        "name": "Surgery Service",
+        "img": "https://me.hasanfardous.com/external/departments/department-6.png",
+        "details": "McLaren’s surgical services represent a full spectrum of procedures and tests across various specialties. General elective surgeries as well as critical or life-saving procedures are what we excel at. McLaren was the first to provide many surgical techniques and tools and continues to keep an eye on the future to enhance the care and outcomes for all our surgical patients. When patients undergo surgery, a team of dedicated medical staff assist the surgeon. Certified anesthesiologists, circulating nurses, or specialized operating room nurses and technicians monitor the surgical procedure and the patient's health and safety during the entire operation. The Surgical Departments at McLaren Health Care is highly trained in state-of-the-art technology and committed to providing superior care to patients and their families. Offering a full spectrum of general and gynecological surgeries, McLaren Health Care is devoted to helping you get back on your feet."
+    }
+]
